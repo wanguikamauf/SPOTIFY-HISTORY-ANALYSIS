@@ -23,8 +23,9 @@ Below are the vusualizations:
 # FINDINGS
 From our analysis we found out that:
   Most played: The total number of artists on spotify is 4112, there were 7905 albums and 16.67K tracks on the website between 2013 and 2024. The total streaming time on the website was 320.49K minutes.
-    93% of the streaming was from android platforms.
+    
   Listening behaviour : A higher percentage of tracks ie 74% were shuffled.
+    93% of the streaming was from android platforms.
     Most of the tracks were not skipped ie only 5% of the tracks were skipped.This suggests that most playlists were satisfactory to the listeners.
     Most of the streaming was done between midday and 7:00 PM with the highest streaming hour being 12:00 PM. This houes are more associated with leisure.
   Listening trends: The top streamed artist are the beatles, the highest streamed album was The New Abnormal and the most streamed song was Ode To The Mets.
