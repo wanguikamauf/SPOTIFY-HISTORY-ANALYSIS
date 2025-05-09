@@ -16,7 +16,7 @@ I made use of the power query to clean and validate the data, then used DAX fomu
 The visualizations were all maade using Power BI desktop.
 Below are the vusualizations:
 ![spotify history analysis 1](https://github.com/user-attachments/assets/714a8b2c-a92a-4de1-8b4d-18f3a7fe5992)
-![spotify history analysis 2](https://github.com/user-attachments/assets/7deafe68-78a7-4220-a053-ad77d65b7336)
+![spofify anly](https://github.com/user-attachments/assets/6a9f1860-c309-4cf0-b108-5c3b669fbda5)
 ![spotify history analysis 3](https://github.com/user-attachments/assets/82370a98-23d8-46ca-b9c3-ab13b87db985)
 
 ---
